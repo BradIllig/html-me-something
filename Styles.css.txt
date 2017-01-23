@@ -1,3 +1,35 @@
+
+/* User Section
+   ========================================================================== */
+* {
+	margin: 2%;
+	}  
+   
+li {
+	margin: 2%;
+	padding: 2%;
+	color:red;
+}
+
+#cursive{
+	font-family:cursive;
+	}
+	
+.band{
+	font-family:Courier;
+	color:purple;
+	}
+   
+   
+   
+   
+   
+   
+   
+   
+   
+/* Normalize
+   ========================================================================== */
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 
 /**
